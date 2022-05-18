@@ -1,1 +1,2 @@
-FROM gcr.io/knative-releases/knative.dev/serving/cmd/networking/nscert@sha256:a941c50f322745fdce8805f78831d05e150b8288924bd7f559703f205f33299e
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/default-domain@sha256:a914e7e3cd3d5ef7997b8c3fd57c0724dfd13aad9c6603f4a29ccca7f763e3bc
+
