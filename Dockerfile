@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/knative.dev/serving/cmd/default-domain@sha256:a914e7e3cd3d5ef7997b8c3fd57c0724dfd13aad9c6603f4a29ccca7f763e3bc
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler-hpa@sha256:0e152388407f650d6599de3c690b67650a5cd4f7056d6f60a016d75e6882ad30
 
